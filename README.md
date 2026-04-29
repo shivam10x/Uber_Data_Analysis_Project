@@ -1,7 +1,6 @@
 # Uber_Data_Analysis_Project
 Uber Data Analysis | Python • Pandas • Matplotlib • Seaborn 
 
-# 🚖 Uber Data Analysis Project
 
 ## 📌 Overview
 
@@ -20,7 +19,8 @@ This project analyzes Uber ride data to uncover patterns in trip demand, peak ho
 
 ## 🛠️ Tools & Technologies
 
-* Python 🐍
+* Python
+* Numpy
 * Pandas
 * Matplotlib
 * Seaborn
@@ -123,6 +123,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📧 Contact
 
 Connect via GitHub for feedback or collaboration.
+Email - upadhyayshivam3268@gmail.com
 
 ---
 
